@@ -1,0 +1,2 @@
+server,db,username,password,driver
+servername,dbname_value,username_value,password value,Driver={SQL Server Native Client 11.0}

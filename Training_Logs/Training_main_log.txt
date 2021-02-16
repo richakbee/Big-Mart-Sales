@@ -1,0 +1,13 @@
+2021-02-07/20:55:49		 Starting  validation of files!!
+2021-02-07/20:55:50		raw validation ended!!
+2021-02-07/20:55:50		Starting data transformation!!
+2021-02-07/20:55:50		 data tranformation ended!!
+2021-02-07/20:55:50		starting Data base operation!!
+2021-02-07/20:56:09		Database operations ended!!
+2021-02-07/20:56:09		Extracting csv file from table
+2021-02-07/20:56:10		Extracted csv file from table successfully
+2021-02-07/20:56:10		Deleting good training raw folder
+2021-02-07/20:56:10		good training raw folder deleted successfully
+2021-02-07/20:56:10		Archiving bad raw data files & deleting the bad_raw folder
+2021-02-07/20:56:10		Archived bad raw data files & deleted the bad_raw folder successfully
+2021-02-07/20:56:10		 End of validation of Training files.Successful!!

@@ -1,0 +1,57 @@
+2021-02-07/20:56:10		Training started!!
+2021-02-07/20:56:10		 Successful in getting Training_FileFromDB/InputFile.csv data
+2021-02-07/20:56:10		Entered remove_columns of preprocessing class!!
+2021-02-07/20:56:10		Column removal Successful.Exited the remove_columns method of the Preprocessor class!!
+2021-02-07/20:56:10		Entered is_null_present in class preprocessing. Checking for null values in training data
+2021-02-07/20:56:10		Entered separate_features_and_label of class preprocessing!!
+2021-02-07/20:56:10		Label separation successful .Exited separate_features_and_label of class preprocessing!!
+2021-02-07/20:56:10		Entered the elbow_plot method of the Clustering class
+2021-02-07/20:56:16		The optimum number of clusters is: 3 . Exited the elbow_plot method of the Clustering class
+2021-02-07/20:56:16		Entered the create_clusters method of the Clustering class
+2021-02-07/20:56:16		calling the save model method from create_clusters method of the Clustering class
+2021-02-07/20:56:16		Entered save_model of model_functions class!!
+2021-02-07/20:56:16		saving the model KMeans successfully.Exited the save_model of model_functions class!!
+2021-02-07/20:56:16		Exited the create_clusters method of the Clustering class
+2021-02-07/20:56:16		entered get_best_model method in class model_finder!! 
+2021-02-07/20:56:16		making calls to functions for get_best_params for each model in tuner class !! 
+2021-02-07/20:56:16		Entered get_params_for_linearReg of tuner class!!
+2021-02-07/20:56:17		get best params for LinearReg successful .{'copy_X': True, 'fit_intercept': True, 'normalize': True}.Exited get_params_for_linearReg of tuner class!!
+2021-02-07/20:56:17		Entered get_params_for_random_forest of tuner class!!
+2021-02-07/20:57:42		get best params for random_forest successful .{'criterion': 'mse', 'max_depth': None, 'max_features': 'log2', 'n_estimators': 100}.Exited get_params_for_random_forest of tuner class!!
+2021-02-07/20:57:42		Entered get_params_for_extratreeReg of tuner class!!
+2021-02-07/20:58:42		get best params for extratreeReg successful .{'criterion': 'mse', 'max_depth': None, 'max_features': 'log2', 'n_estimators': 100}.Exited get_params_for_extratreeReg of tuner class!!
+2021-02-07/20:58:43		Entered get_params_for_catboostReg of tuner class!!
+2021-02-07/21:00:32		get best params for catboost successful{'learning_rate': 0.5, 'loss_function': 'RMSE', 'n_estimators': 130}.Exited get_params_for_catboostReg of tuner class!!
+2021-02-07/21:00:32		Calls to functions for get_best_params for each model in tuner class ended successfully!! 
+2021-02-07/21:00:32		Exited the get_best_model method of the Clustering class. 
+2021-02-07/21:00:32		Entered save_model of model_functions class!!
+2021-02-07/21:00:32		saving the model extratreereg2 successfully.Exited the save_model of model_functions class!!
+2021-02-07/21:00:32		entered get_best_model method in class model_finder!! 
+2021-02-07/21:00:32		making calls to functions for get_best_params for each model in tuner class !! 
+2021-02-07/21:00:32		Entered get_params_for_linearReg of tuner class!!
+2021-02-07/21:00:33		get best params for LinearReg successful .{'copy_X': True, 'fit_intercept': True, 'normalize': True}.Exited get_params_for_linearReg of tuner class!!
+2021-02-07/21:00:33		Entered get_params_for_random_forest of tuner class!!
+2021-02-07/21:01:43		get best params for random_forest successful .{'criterion': 'mse', 'max_depth': None, 'max_features': 'auto', 'n_estimators': 100}.Exited get_params_for_random_forest of tuner class!!
+2021-02-07/21:01:43		Entered get_params_for_extratreeReg of tuner class!!
+2021-02-07/21:03:13		get best params for extratreeReg successful .{'criterion': 'mse', 'max_depth': None, 'max_features': 'log2', 'n_estimators': 100}.Exited get_params_for_extratreeReg of tuner class!!
+2021-02-07/21:03:13		Entered get_params_for_catboostReg of tuner class!!
+2021-02-07/21:04:34		get best params for catboost successful{'learning_rate': 0.5, 'loss_function': 'RMSE', 'n_estimators': 200}.Exited get_params_for_catboostReg of tuner class!!
+2021-02-07/21:04:34		Calls to functions for get_best_params for each model in tuner class ended successfully!! 
+2021-02-07/21:04:34		Exited the get_best_model method of the Clustering class. 
+2021-02-07/21:04:34		Entered save_model of model_functions class!!
+2021-02-07/21:04:34		saving the model extratreereg1 successfully.Exited the save_model of model_functions class!!
+2021-02-07/21:04:34		entered get_best_model method in class model_finder!! 
+2021-02-07/21:04:34		making calls to functions for get_best_params for each model in tuner class !! 
+2021-02-07/21:04:34		Entered get_params_for_linearReg of tuner class!!
+2021-02-07/21:04:35		get best params for LinearReg successful .{'copy_X': True, 'fit_intercept': False, 'normalize': True}.Exited get_params_for_linearReg of tuner class!!
+2021-02-07/21:04:35		Entered get_params_for_random_forest of tuner class!!
+2021-02-07/21:05:35		get best params for random_forest successful .{'criterion': 'mse', 'max_depth': None, 'max_features': 'log2', 'n_estimators': 130}.Exited get_params_for_random_forest of tuner class!!
+2021-02-07/21:05:35		Entered get_params_for_extratreeReg of tuner class!!
+2021-02-07/21:06:25		get best params for extratreeReg successful .{'criterion': 'mse', 'max_depth': None, 'max_features': 'auto', 'n_estimators': 100}.Exited get_params_for_extratreeReg of tuner class!!
+2021-02-07/21:06:25		Entered get_params_for_catboostReg of tuner class!!
+2021-02-07/21:07:41		get best params for catboost successful{'learning_rate': 0.5, 'loss_function': 'RMSE', 'n_estimators': 200}.Exited get_params_for_catboostReg of tuner class!!
+2021-02-07/21:07:41		Calls to functions for get_best_params for each model in tuner class ended successfully!! 
+2021-02-07/21:07:41		Exited the get_best_model method of the Clustering class. 
+2021-02-07/21:07:41		Entered save_model of model_functions class!!
+2021-02-07/21:07:41		saving the model extratreereg0 successfully.Exited the save_model of model_functions class!!
+2021-02-07/21:07:41		Training Successful!!

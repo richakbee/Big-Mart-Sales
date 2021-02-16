@@ -1,0 +1,4 @@
+2021-02-07/20:56:10		 Good Raw directory at location Training_Raw_files_validated/Good_Raw deleted succesfully
+2021-02-07/20:56:10		Archived salesPrediction_10052024_120215.csvas bad data at location TrainingArchiveBadData\BadData_2021-02-07_205610
+2021-02-07/20:56:10		Archived salesPrediction_10052025_16.csvas bad data at location TrainingArchiveBadData\BadData_2021-02-07_205610
+2021-02-07/20:56:10		deleted the Bad Raw Data folder successfully

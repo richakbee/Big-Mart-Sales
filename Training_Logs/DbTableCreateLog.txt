@@ -1,0 +1,1 @@
+2021-02-07/20:55:54		Table Good_Raw_Data created successfully

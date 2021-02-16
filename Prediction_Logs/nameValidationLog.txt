@@ -1,0 +1,6 @@
+2021-02-07/21:24:22		Invalid File Name!! File moved to Bad Raw Folder :: cement_strength_08012020_120021.csv
+2021-02-07/21:24:22		Invalid File Name!! File moved to Bad Raw Folder :: salesPrediction_08012020_1200.csv
+2021-02-07/21:24:22		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052026_120217.csv
+2021-02-07/21:24:22		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052027_120218.csv
+2021-02-07/21:24:22		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052028_120219.csv
+2021-02-07/21:24:22		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052029_120220.csv

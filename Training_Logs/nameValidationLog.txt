@@ -1,0 +1,7 @@
+2021-02-07/20:55:49		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052019_120210.csv
+2021-02-07/20:55:49		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052020_120211.csv
+2021-02-07/20:55:49		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052021_120212.csv
+2021-02-07/20:55:49		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052022_120213.csv
+2021-02-07/20:55:49		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052023_120214.csv
+2021-02-07/20:55:49		Valid File name!! File moved to GoodRaw Folder :: salesPrediction_10052024_120215.csv
+2021-02-07/20:55:49		Invalid File Name!! File moved to Bad Raw Folder :: salesPrediction_10052025_16.csv

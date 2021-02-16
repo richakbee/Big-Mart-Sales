@@ -1,0 +1,6 @@
+2021-02-07/21:24:28		 Good Raw directory at location Prediction_Raw_files_validated/Good_Raw deleted succesfully
+2021-02-07/21:24:34		Archived cement_strength_08012020_120021.csv bad data at PredictionArchiveBadData\BadData_2021-02-07_212434
+2021-02-07/21:24:34		Archived salesPrediction_08012020_1200.csv bad data at PredictionArchiveBadData\BadData_2021-02-07_212434
+2021-02-07/21:24:34		Archived salesPrediction_10052028_120219.csv bad data at PredictionArchiveBadData\BadData_2021-02-07_212434
+2021-02-07/21:24:34		Archived salesPrediction_10052029_120220.csv bad data at PredictionArchiveBadData\BadData_2021-02-07_212434
+2021-02-07/21:24:34		deleted the Bad Raw Data folder successfully
