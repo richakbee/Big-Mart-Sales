@@ -3,7 +3,14 @@
 ## Problem Statement
 Build a predictive model and find out the sales of each product at a particular store.
 
+## Detailed EDA 
+see detailed EDA <a href="https://nbviewer.jupyter.org/github/richakbee/Big-Mart-Sales/blob/5ff06d8caff5e2c8d04bcad3cb9c7a4356804915/EDA/BigMartSales_EDA.ipynb">here</a>
+
+<img src="https://github.com/richakbee/Big-Mart-Sales/blob/main/screenshots/EDA.jpg"/>
+
 ## Architecture
+
+<img src="https://github.com/richakbee/Big-Mart-Sales/blob/main/screenshots/Architecture.jpg"/>
 
 ### Data Description
 
@@ -84,4 +91,20 @@ Data Insertion in Database
 4) Prediction - Based on the cluster number, the respective model is loaded and is used to predict the data for that cluster.
 5) Once the prediction is made for all the clusters, the predictions along with the original names before label encoder are saved in a CSV file at a given location and the location is returned to the client.
  
-### Deployment
+### Deployment 
+
+#### Development (Flask & Post Man for API testing)
+
+<b> /train route </b>
+
+<img src="https://github.com/richakbee/Big-Mart-Sales/blob/main/screenshots/bigmarttrain.png"/>
+
+<b> /predict route </b>
+
+<img src="https://github.com/richakbee/Big-Mart-Sales/blob/main/screenshots/Bigmartpred.png"/>
+
+### WebApp
+
+<img src="https://github.com/richakbee/Big-Mart-Sales/blob/main/screenshots/prediction2.jpg"/>
+
+
