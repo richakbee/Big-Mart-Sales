@@ -7,8 +7,8 @@ Build a predictive model and find out the sales of each product at a particular 
 
 ### Data Description
 
-•	Item_Identifier: Unique product ID
-•	Item_Weight: Weight of product
+1. Item_Identifier: Unique product ID
+2. Item_Weight: Weight of product
 •	Item_Fat_Content: Whether the product is low fat or not
 •	Item_Visibility: The % of total display area of all products in a store allocated to the particular product
 •	Item_Type: The category to which the product belongs
